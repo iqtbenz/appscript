@@ -1,6 +1,6 @@
 {
   "name": "GAS PWA",
-  "short_name": "GAS PWA",
+  "short_name": "TestApp",
   "start_url": "index.html",
   "display": "standalone",
   "background_color": "#0d47a1",
