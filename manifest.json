@@ -20,14 +20,14 @@
   "screenshots": [
     {
       "src": "images/screenshot-mobile.png",
-      "sizes": "750x1334",
+      "sizes": "562x1280",
       "type": "image/png",
       "form_factor": "narrow",
       "label": "Mobile view of the app"
     },
     {
       "src": "images/screenshot-desktop.png",
-      "sizes": "1280x720",
+      "sizes": "1920x1050",
       "type": "image/png",
       "form_factor": "wide",
       "label": "Desktop view of the app"
